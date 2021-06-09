@@ -25,7 +25,7 @@ body {
   border-radius: 20px;
   box-sizing: border-box;
   font-family: 'Digi';
-  font-size: 80px;
+  font-size: 45px;
   height: 210px;
   margin: 0 auto;
   padding: 35px 0;
@@ -48,7 +48,7 @@ body {
 
 #milliseconds {
   font-size: 36px;
-  margin-top: -15px;
+  margin-top: 0;
   position: absolute;
   right: 20px;
 }
